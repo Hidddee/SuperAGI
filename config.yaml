@@ -1,8 +1,8 @@
 #####################------------------SYSTEM KEYS-------------------------########################
-PINECONE_API_KEY: 430a9a47-44eb-4c75-90e4-040816a45b70
-PINECONE_ENVIRONMENT: us-west1-gcp-free
+PINECONE_API_KEY:
+PINECONE_ENVIRONMENT: 
 
-OPENAI_API_KEY: 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
+OPENAI_API_KEY:
 
 # For locally hosted LLMs comment out the next line and uncomment the one after
 # to configure a local llm point your browser to 127.0.0.1:7860 and click on the model tab in text generation web ui.
@@ -67,8 +67,8 @@ WEAVIATE_USE_EMBEDDED: true
 
 #####################------------------TOOLS KEY-------------------------########################
 #If you have google api key and CSE key, use this
-GOOGLE_API_KEY: AIzaSyBRhYOygzOuUUwkMJJABulMZ8SNa1IcdOY
-SEARCH_ENGINE_ID: d0ba956616cf142bc
+GOOGLE_API_KEY: 
+SEARCH_ENGINE_ID: 
 
 # IF YOU DONT HAVE GOOGLE SEARCH KEY, USE THIS
 SERP_API_KEY: YOUR_SERP_API_KEY
